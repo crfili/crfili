@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b> 
-  - [Active Directory Home Lab using PowerShell - Bulk User Creation] (in development)
+  - [Active Directory Home Lab using PowerShell - Bulk User Creation](https://github.com/crfili/ActiveDirectory-Lab)
 - <b>Python</b>
   - [Information Gathering with Nmap] (in development)
 
