@@ -10,7 +10,7 @@
 <h2>📝 Certifications</h2>
 
 - Google Cybersecurity Professional - currently learning
-- CompTIA Security+ - currently learning (expected 10/01)
+- CompTIA Security+ - currently learning (expected 24/01)
 - Microsoft Azure Security Technologies (AZ-500) - planned for later
 - Splunk Core Certified Power User - planned for later
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals - SC-900](https://www.credly.com/badges/9cc37c5a-b7db-4eaf-bf56-1daf80913714/public_url)
