@@ -5,7 +5,7 @@
 - <b>PowerShell</b> 
   - [Active Directory Home Lab using PowerShell - Bulk User Creation](https://github.com/crfili/ActiveDirectory-Lab)
 - <b>Python</b>
-  - [Information Gathering - Grabbing Banners, Hostname and IP Lookup]
+  - [Information Gathering - Grabbing Banners, Hostname and IP Lookup](https://github.com/crfili/InformationGathering)
   - [Basic Port Scanner using Nmap](https://github.com/crfili/BasicPortScannerNmap)
 
 
