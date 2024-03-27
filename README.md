@@ -5,13 +5,14 @@
 - <b>PowerShell</b> 
   - [Active Directory Home Lab using PowerShell - Bulk User Creation](https://github.com/crfili/ActiveDirectory-Lab)
 - <b>Python</b>
-  - [Information Gathering with Nmap] (in development)
+  - [Information Gathering - Grabbing Banners, Hostname and IP Lookup]
+  - [Basic Port Scanner using Nmap]
+
 
 <h2>📝 Certifications</h2>
 
-- Google Cybersecurity Professional - currently learning
-- CompTIA Security+ - currently learning (expected 24/01)
-- Microsoft Azure Security Technologies (AZ-500) - planned for later
+- Google Cybersecurity Professional 
+- CompTIA Security+ - currently learning 
 - Splunk Core Certified Power User - planned for later
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals - SC-900](https://www.credly.com/badges/9cc37c5a-b7db-4eaf-bf56-1daf80913714/public_url)
 - [Microsoft Certified: Azure AI Fundamentals - AI-900](https://www.credly.com/badges/d7e7f31f-5d12-4cc2-856f-45273cb7bd41/linked_in)
